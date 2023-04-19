@@ -1,0 +1,69 @@
+{
+  "common": {
+    "clear": "清除",
+    "close": "关闭",
+    "confirm": "确认",
+    "save": "保存",
+    "edit": "编辑",
+    "loading": "加载中",
+    "setting": "设置",
+    "copy": "复制",
+    "delete": "删除",
+    "execute": "执行"
+  },
+  "conversation": {
+    "new-chat": "新建会话",
+    "conversation-title": "会话标题",
+    "update": "更新会话",
+    "title": "标题"
+  },
+  "connection": {
+    "self": "连接",
+    "new": "创建连接",
+    "select-database": "选择数据库"
+  },
+  "assistant": {
+    "self": "机器人",
+    "create-your-bot": "找不到需要的机器人？创建一个"
+  },
+  "execution": {
+    "title": "执行 SQL",
+    "message": {
+      "executing": "正在执行查询...",
+      "no-connection": "未选择连接",
+      "no-data": "未返回数据"
+    }
+  },
+  "editor": {
+    "placeholder": "在此输入您的问题..."
+  },
+  "setting": {
+    "self": "设置",
+    "basic": {
+      "self": "基础",
+      "language": "语言"
+    },
+    "theme": {
+      "self": "主题",
+      "system": "跟随系统",
+      "light": "浅色",
+      "dark": "深色"
+    },
+    "openai-api-configuration": {
+      "self": "OpenAI API 配置"
+    },
+    "data": {
+      "self": "数据",
+      "clear-all-data": "清除所有数据"
+    }
+  },
+  "social": {
+    "join-discord-channel": "加入 Discord 频道",
+    "join-wechat-group": "加入微信群"
+  },
+  "banner": {
+    "data-storage": "连接设置存储在您的本地浏览器中",
+    "non-select-sql-warning": "当前语句可能是非 SELECT SQL，这将导致数据库模式或数据变化。",
+    "product-hunt": "🚀🚀🚀 我们刚在 Product Hunt 发布, 来给我们点个赞! 🚀🚀🚀"
+  }
+}
